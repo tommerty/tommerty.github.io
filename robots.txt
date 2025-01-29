@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tommerty.github.io/sitemap.xml
